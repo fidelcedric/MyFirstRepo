@@ -1,1 +1,3 @@
-In this course, I have learned how to use Git and GitHub to manage my code. I've learned how to clone repositories, create files locally, and push changes back to GitHub. These skills are essential for collaborating with other developers and tracking changes in my projects.
+What I have learned from this course
+
+So far in this course, I have learned the fundamentals of version control using Git and GitHub. I now understand how to track changes, collaborate with others using branches and pull requests, and manage repositories both locally and remotely. These skills are essential for any modern workflow.
