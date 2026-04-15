@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+I am a student passionate about software engineering and DevOps. I enjoy learning about automation and cloud technologies.
+
+This is my second paragraph where I mention my interest in building scalable systems and mastering the Linux command line.
