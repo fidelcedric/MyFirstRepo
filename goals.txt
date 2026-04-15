@@ -1,0 +1,6 @@
+My Personal and Academic Goals for Next Year
+
+1. Master Linux administration.
+2. Build a complete CI/CD pipeline.
+3. Contribute to open-source projects.
+4. Achieve top grades in my software engineering courses.
